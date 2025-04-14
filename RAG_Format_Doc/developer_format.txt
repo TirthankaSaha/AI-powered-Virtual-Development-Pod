@@ -1,0 +1,14 @@
+Code Specification Format:
+- Module: [Module Name]
+- Purpose: [Brief purpose]
+- Language: [Programming language]
+- Dependencies: [List any libraries]
+- Functions:
+  - Function Name: [Name]
+    - Description: [What it does]
+    - Inputs: [Parameters]
+    - Outputs: [Return values]
+- Example Usage:
+```python
+# Example code snippet
+```

@@ -1,0 +1,11 @@
+Design Document Format:
+- Module Name: [Name]
+- Overview: [High-level explanation]
+- Architecture Diagram: [Text-based or link to image]
+- Components:
+  - Component 1: [Description]
+  - Component 2: [Description]
+  - Component 3: [Description]
+  - Component 4: [Description]
+  - Component 5: [Description]
+- Data Flow: [Describe the flow of data]
